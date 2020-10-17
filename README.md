@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Andrew!
 
 ### 🌱 I’m currently learning ...
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=/images/python.svg&logoColor=white&color=2bbc8a)
-2. PowerShell
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=https://github.com/AKapaldo/AKapaldo/images/python.svg&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-PowerShell-informational?style=flat&logo=https://github.com/AKapaldo/AKapaldo/images/powershell.svg&logoColor=white&color=2bbc8a)
 
 ### 📫 How to reach me: ...
 [LinkedIn](https://www.linkedin.com/in/andrew-kapaldo/)
