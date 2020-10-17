@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Andrew!
 
 ### 🌱 I’m currently learning ...
-1. Python
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=/images/python.svg&logoColor=white&color=2bbc8a)
 2. PowerShell
 
 ### 📫 How to reach me: ...
