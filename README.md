@@ -1,4 +1,4 @@
-<table>
+<table border="0">
 <tr><td colspan="2">
 <h1 align="center">Hi there 👋, I'm Andrew!</h1>
 <h3 align="center">I'm new to an IT career and trying to learn as much as I can by doing!</h3></td></tr>
@@ -22,4 +22,3 @@
 <img src="https://komarev.com/ghpvc/?username=akapaldo&label=Profile%20views&color=0e75b6&style=flat" alt="akapaldo" />
 </td></tr>
 </table>
-
