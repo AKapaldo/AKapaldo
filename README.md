@@ -1,19 +1,5 @@
-<!--
-**AKapaldo/AKapaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi there 👋, I'm Andrew</h1>
+<h1 align="center">Hi there 👋, I'm Andrew!</h1>
 <h3 align="center">I'm new to an IT career and trying to learn as much as I can by doing!</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akapaldo&label=Profile%20views&color=0e75b6&style=flat" alt="akapaldo" /> </p>
 
 <p align="left"> </p>
 <h3 align="left">Connect with me:</h3>
@@ -29,4 +15,5 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-PowerShell-informational?style=flat&logo=https://github.com/AKapaldo/AKapaldo/images/powershell.svg&logoColor=white&color=blue)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akapaldo&show_icons=true" alt="akapaldo" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akapaldo&show_icons=true" alt="akapaldo" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akapaldo&label=Profile%20views&color=0e75b6&style=flat" alt="akapaldo" /> </p>
