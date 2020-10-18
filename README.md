@@ -15,5 +15,6 @@
 ![](https://img.shields.io/badge/Code-PowerShell-informational?style=flat&logo=https://github.com/AKapaldo/AKapaldo/images/powershell.svg&logoColor=white&color=blue)
 
 
+<h3 align="left">GitHub Stats:</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akapaldo&show_icons=true" alt="akapaldo" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akapaldo&label=Profile%20views&color=0e75b6&style=flat" alt="akapaldo" /> </p>
