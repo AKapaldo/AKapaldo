@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/AKapaldo/AKapaldo/blob/master/images/GitHub_Banner.png"></p>
 <h1 align="center">Hi there 👋, I'm Andrew!</h1>
-<h3 align="center">I'm new to an IT career and trying to learn as much as I can by doing!</h3>
+<h3 align="center">Cybersecurity Analyst and code fan.</h3>
 
 <h2 align="left">💬 Connect with me:</h2>
 <p align="left">
